@@ -50,7 +50,7 @@ PS C:\> Join-Path -Path "path\" -ChildPath "\childpath"
 path\childpath
 ```
 
-Existing directory separators `\` and handled so there is only one separator between `Path` and `ChildPath`
+Existing directory separators `\` are handled so there is only one separator between `Path` and `ChildPath`
 
 ### Example 3: Display files and folders by joining a path with a child path
 
